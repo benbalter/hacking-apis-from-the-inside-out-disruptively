@@ -39,6 +39,7 @@ ol li:before { content: counter(item) ". "; counter-increment: item; display; bl
 #roadmap li { margin: 40px 0 40px 0; }
 
 .bottom-left { position: absolute; bottom: 10px; left: 20px; font-size: .6em; }
+.bottom-right { position: absolute; bottom: 10px; right: 20px; font-size: .6em; }
 
 .tags {font-size: 13px; line-height: 35px; }
 .tags .tag { list-style: none; display: inline;  }
