@@ -1,6 +1,7 @@
 ---
 title: Discovery API
-x: 4000
+x: 2000
+y: 1000
 ---
 
 # Discovery API

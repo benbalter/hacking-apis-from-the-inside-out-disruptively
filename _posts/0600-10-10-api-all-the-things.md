@@ -1,6 +1,8 @@
 ---
 title: API All the Things
-x: 9000
+x: -2000
+y: 1000
+z: 1000
 ---
 
 # API All the Things!

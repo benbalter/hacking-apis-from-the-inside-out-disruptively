@@ -1,6 +1,8 @@
 ---
 title: Static Front Ends
-x: 7000
+x: -2000
+y: -1000
+rotate-x: 90
 ---
 
 # Static Front End
