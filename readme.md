@@ -3,7 +3,7 @@ Jekyll based presentations using Impress.js
 
 Live Presentation
 -----------------
-<http://benbalter.github.com/digital-strategy-reporting/>
+<http://ben.balter.com/hacking-apis-from-the-inside-out-disruptively>
 
 Acknoledgements
 ---------------
